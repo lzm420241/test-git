@@ -1,1 +1,1 @@
-console.log("test git --- master for fist commit");
+console.log("test git --- master for first commit");
